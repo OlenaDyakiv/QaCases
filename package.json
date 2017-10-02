@@ -1,0 +1,20 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Bubble",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "test"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0"
+  },
+  "author": "olena",
+  "license": "ISC"
+}
+
+
+
